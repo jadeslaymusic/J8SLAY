@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a vibrant platform for coding enthusiasts to explore, create, and share innovative projects, enhancing their coding skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
